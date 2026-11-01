@@ -1,4 +1,8 @@
+
 # Flocking Simulation
+
+<img width="720" height="466" alt="C++3_5秒_完成" src="https://github.com/user-attachments/assets/1e0646f8-d75e-4d5f-bafe-43ee60023a13" />
+
 
 A flocking and steering behavior simulation implemented in C++ with OpenGL.
 
