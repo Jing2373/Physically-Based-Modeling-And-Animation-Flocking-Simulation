@@ -44,7 +44,7 @@ the leader while also applying the flocking behaviors.
 ## Credits
 
 Some source files and the PBA framework were provided as course starter code
-by Jerry Tessendorf.
+by Dr. Jerry Tessendorf.
 
 My work focuses on implementing and modifying the flocking behaviors,
 leader-following behavior, collision avoidance, velocity matching,
